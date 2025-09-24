@@ -1,21 +1,30 @@
-# 💫 About Me:
-👋 Hi there! 🤝 I'm looking to collaborate on<br>I'm still learning programming, mainly through Python, but would love to collaborate on beginner-friendly AI or data-related projects.<br><br>🌱 I'm looking for help with<br>Solving real-world problems to speed up my learning process and deepen my understanding.<br><br>📚 I'm currently learning<br>AI and Data Science with a focus on Python.<br><br>💬 Ask me about<br>Still figuring that out! But stay tuned 😊<br><br>🎉 4 Fun facts about me<br><br>1- I enjoy solving logic puzzles in my free time.<br><br>2- I learn best at night with some lo-fi music in the background.<br><br>3- I believe coffee is the real debugging tool ☕<br><br>4- I'm always excited to explore how AI can make life easier.
+👋 Hi there! 
 
+I'm Mohamed Gamal, an aspiring **AI & Data Science Engineer**.  
+Currently diving deep into **Python programming, Machine Learning, Deep Learning, and Data Analysis** while building real-world projects.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/19UGkGL53h/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohamed-gamal-357b10356) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mgamal.ahmed@outlook.com) 
+🌱 I'm currently focusing on
+- Completing my **Advanced Diploma in AI & Data Science (AMIT – MCIT)**  
+- Working on **hands-on projects** like Hospital Management, Student Course Management, Correspondence Management, and Data Analysis & Visualization  
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MohamedGamal-Ahmed&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MohamedGamal-Ahmed&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedGamal-Ahmed&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+💬 Ask me about
+- Python programming  
+- Data preprocessing and visualization  
+- AI/ML concepts and projects  
+- Building practical applications with Python  
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MohamedGamal-Ahmed&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🎉 4 Fun facts about me
+1. I enjoy solving logic puzzles and coding challenges.  
+2. I learn best while building projects and exploring real datasets.  
+3. Coffee is my secret debugging tool ☕  
+4. I'm always excited to see how AI can make life easier and more creative.  
 
----
-[![](https://visitcount.itsvg.in/api?id=MohamedGamal-Ahmed&icon=1&color=0)](https://visitcount.itsvg.in)
+🚀 Projects on GitHub
+- [Hospital Management System](https://github.com/MohamedGamal-Ahmed/Hospital)  
+- [Correspondence Management System](https://github.com/MohamedGamal-Ahmed/correspondence_management)  
+- [Student Course Management System](https://github.com/MohamedGamal-Ahmed/Student_course_System)  
+- [Data Analysis & Visualization](https://github.com/MohamedGamal-Ahmed/Ai_Amit_Diploma/tree/main/Projects/Data_Analysis)  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🌐 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/mohamed-gamal-357b10356)  
+- [GitHub](https://github.com/MohamedGamal-Ahmed)
