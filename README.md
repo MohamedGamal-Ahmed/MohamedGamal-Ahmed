@@ -4,14 +4,8 @@ I'm Mohamed Gamal, an aspiring **AI & Data Science Engineer**.
 Currently diving deep into **Python programming, Machine Learning, Deep Learning, and Data Analysis** while building real-world projects.
 
 🌱 I'm currently focusing on
-- Completing my **Advanced Diploma in AI & Data Science (AMIT – MCIT)**  
+- Completing my **Advanced Diploma in AI & Data Science (AMIT – MCIT)** – expected **Nov 2025**  
 - Working on **hands-on projects** like Hospital Management, Student Course Management, Correspondence Management, and Data Analysis & Visualization  
-
-💬 Ask me about
-- Python programming  
-- Data preprocessing and visualization  
-- AI/ML concepts and projects  
-- Building practical applications with Python  
 
 🎉 4 Fun facts about me
 1. I enjoy solving logic puzzles and coding challenges.  
