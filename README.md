@@ -43,10 +43,9 @@ I'm a passionate **AI & Data Science Engineer** focused on building intelligent 
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohamedGamal-Ahmed&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedGamal-Ahmed&layout=compact&theme=dark" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=MohamedGamal-Ahmed&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="MohamedGamal-Ahmed's GitHub Stats" />
+
+ 
 
 ---
 
