@@ -1,24 +1,56 @@
-👋 Hi there! 
+<div align="center">
+  <img src="banner.png" alt="Mohamed Gamal Banner" width="100%">
+  
+  # 🚀 Mohamed Gamal
+  ### AI & Data Science Engineer | Full-Stack AI Developer
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-gamal-357b10356)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedGamal-Ahmed)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mgamal.ahmed@outlook.com)
+</div>
 
-I'm Mohamed Gamal, an aspiring **AI & Data Science Engineer**.  
-Currently diving deep into **Python programming, Machine Learning, Deep Learning, and Data Analysis** while building real-world projects.
+---
 
-🌱 I'm currently focusing on
-- Completing my **Advanced Diploma in AI & Data Science (AMIT – MCIT)** – expected **Nov 2025**  
-- Working on **hands-on projects** like Hospital Management, Student Course Management, Correspondence Management, and Data Analysis & Visualization  
+### 👨‍💻 About Me
+I'm a passionate **AI & Data Science Engineer** focused on building intelligent systems that solve real-world problems. I bridge the gap between complex AI models and functional, user-centric applications.
 
-🎉 4 Fun facts about me
-1. I enjoy solving logic puzzles and coding challenges.  
-2. I learn best while building projects and exploring real datasets.  
-3. Coffee is my secret debugging tool ☕  
-4. I'm always excited to see how AI can make life easier and more creative.  
+- 🛠️ Currently architecting **DCMS** (Correspondence Management System) & **Basir**.
+- 🎓 Completed Advanced Diploma in **AI & Data Science (AMIT – MCIT)**.
+- 💡 Interested in **Vibe Coding**, Generative AI, and Computer Vision.
 
-🚀 Projects on GitHub
-- [Hospital Management System](https://github.com/MohamedGamal-Ahmed/Hospital)  
-- [Correspondence Management System](https://github.com/MohamedGamal-Ahmed/correspondence_management)  
-- [Student Course Management System](https://github.com/MohamedGamal-Ahmed/Student_course_System)  
-- [Data Analysis & Visualization](https://github.com/MohamedGamal-Ahmed/Ai_Amit_Diploma/tree/main/Projects/Data_Analysis)  
+---
 
-🌐 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/mohamed-gamal-357b10356)  
-- [GitHub](https://github.com/MohamedGamal-Ahmed)
+### 🛠️ Tech Stack
+<div align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
+
+---
+
+### 🚀 Featured Projects
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[DCMS Mobile](https://github.com/MohamedGamal-Ahmed/DCMS-Mobile-App)** | AI-powered Correspondence Management System. | TS, FastAPI, AI |
+| **[Basir](https://github.com/MohamedGamal-Ahmed/Basir)** | Advanced Python-based AI project. | Python, ML |
+| **[Face Mask Detection](https://github.com/MohamedGamal-Ahmed/Face-Mask-Detection)** | Real-time computer vision system using YOLOv5. | Python, YOLOv5 |
+| **[Masar App](https://github.com/MohamedGamal-Ahmed/Masar-App)** | Personal Financial Management Tool. | TypeScript, Node.js |
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohamedGamal-Ahmed&show_icons=true&theme=vision-ffh&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedGamal-Ahmed&layout=compact&theme=vision-ffh" />
+</div>
+
+---
+
+### ☕ Fun Facts
+- **Debugging Power:** Powered by Coffee & Logic Puzzles.
+- **Learning Style:** Build first, read documentation later.
+- **Goal:** Making AI accessible and creative for everyone.
